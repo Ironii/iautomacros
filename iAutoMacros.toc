@@ -1,0 +1,7 @@
+## Interface: 90105
+## Title: iAutoMacros
+## Author: Ironi
+## Version: 1.0
+## DefaultState: enabled
+
+iAutoMacros.lua
